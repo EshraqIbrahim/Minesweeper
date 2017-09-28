@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1482757707 source:c:\users\user\desktop\minesweeperrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"winlose.h"
+	"playerss.h"
+
+1482292592 c:\users\user\desktop\minesweeperrrr\winlose.h
+
+1482388774 source:c:\users\user\desktop\minesweeperrrr\winlosee.c
+	"winlose.h"
+
+1482295176 source:c:\users\user\desktop\minesweeperrrr\creategrids.c
+	"Creategame.h"
+
+1482295176 c:\users\user\desktop\minesweeperrrr\creategame.h
+
+1482597392 source:c:\users\user\desktop\minesweeperrrr\players.c
+	"playerss.h"
+	<windows.h>
+
+1482597313 c:\users\user\desktop\minesweeperrrr\playerss.h
+
+1482295176 source:c:\users\user\desktop\new folder (10)\minesweeperrrr\creategrids.c
+	"Creategame.h"
+
+1482295176 c:\users\user\desktop\new folder (10)\minesweeperrrr\creategame.h
+
+1482757707 source:c:\users\user\desktop\new folder (10)\minesweeperrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"winlose.h"
+	"playerss.h"
+
+1482292592 c:\users\user\desktop\new folder (10)\minesweeperrrr\winlose.h
+
+1482597313 c:\users\user\desktop\new folder (10)\minesweeperrrr\playerss.h
+
+1482597392 source:c:\users\user\desktop\new folder (10)\minesweeperrrr\players.c
+	"playerss.h"
+	<windows.h>
+
+1482388774 source:c:\users\user\desktop\new folder (10)\minesweeperrrr\winlosee.c
+	"winlose.h"
+
